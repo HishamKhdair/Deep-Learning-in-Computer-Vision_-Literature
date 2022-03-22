@@ -11,7 +11,6 @@
 
 #### Visual Transformers (Vits) - annotated
 
-- Survey
 - SegFormer
 - CrossFormer
   
