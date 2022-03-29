@@ -1,4 +1,4 @@
-#### Convolutional Networks (ConvNets) - annotated, code - coming soon
+#### Convolutional Networks (ConvNets) - code - coming soon
 
 - LeNet
 - AlexNet
@@ -9,7 +9,7 @@
 - Xception
 - SENet
 
-#### Visual Transformers (Vits) - annotated, code - coming soon
+#### Visual Transformers (Vits) - code - coming soon
 
 - SegFormer
 - CrossFormer
